@@ -2,7 +2,7 @@
   "name": "blogapp",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "mbaljeetsingh <bsinghs.007@gmail.com>",
+  "author": "",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
